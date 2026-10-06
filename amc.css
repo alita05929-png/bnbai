@@ -1,0 +1,13 @@
+img.header-logo{width:min(640px,88vw)!important;height:auto!important;background:transparent}
+#logo{width:54px!important;height:54px!important;object-fit:contain}
+.et_pb_section_video_bg{overflow:hidden}
+.et_pb_section_video_bg img.amc-hero{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.ticker-text{color:#fff!important}
+#top-menu li.current-menu-item>a,#top-menu li.current-menu-ancestor>a,.mobile_menu_bar:before,.mobile_menu_bar:after{color:#D30025!important}
+.nav li ul{border-top-color:#D30025!important}
+.et_pb_button{border-color:#D30025}
+
+.et_pb_fullwidth_header_0 .header-content{background:rgba(0,0,0,.42);border-radius:16px;padding:12px 20px 4px}
+.et_pb_fullwidth_header_0 .et_pb_header_content_wrapper p{color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.8)}
+#contract .et_pb_with_border{overflow:visible!important}
+#contract .et_pb_with_border .et_pb_text_inner{overflow-wrap:anywhere;word-break:break-all}
